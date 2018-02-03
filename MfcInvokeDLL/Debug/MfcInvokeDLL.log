@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/2/2 17:04:06。
+     1>项目“F:\Workspace\CPPWorkspace\MfcInvokeDLL\MfcInvokeDLL\MfcInvokeDLL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MfcInvokeDLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MfcInvokeDLL.cpp MfcInvokeDLLDlg.cpp
+         MfcInvokeDLL.cpp
+         正在生成代码...
+         正在编译...
+         MfcInvokeDLLDlg.cpp
+     1>f:\workspace\cppworkspace\mfcinvokedll\mfcinvokedll\mfcinvokedlldlg.cpp(4): warning C4627: “#include <cstdlib>”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MfcInvokeDLL.res" MfcInvokeDLL.rc 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Workspace\CPPWorkspace\MfcInvokeDLL\Debug\MfcInvokeDLL.exe" /INCREMENTAL /NOLOGO .\ExportDLL.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\Workspace\CPPWorkspace\MfcInvokeDLL\Debug\MfcInvokeDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Workspace\CPPWorkspace\MfcInvokeDLL\Debug\MfcInvokeDLL.lib" /MACHINE:X86 Debug\MfcInvokeDLL.res
+         Debug\MfcInvokeDLL.obj
+         Debug\MfcInvokeDLLDlg.obj
+         Debug\stdafx.obj
+         MfcInvokeDLL.vcxproj -> F:\Workspace\CPPWorkspace\MfcInvokeDLL\Debug\MfcInvokeDLL.exe
+     1>已完成生成项目“F:\Workspace\CPPWorkspace\MfcInvokeDLL\MfcInvokeDLL\MfcInvokeDLL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.07
